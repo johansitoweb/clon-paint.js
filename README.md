@@ -1,9 +1,7 @@
 # clon-paint.js
 Este es un clon de paint.js con python y tkinter
-
+## El original
 https://paint.js.org/
-
-https://www.javascript100.dev/09-paint-win-95
 
 ![image](https://github.com/user-attachments/assets/1419c686-e632-4124-a936-6c5814911a36)
 
